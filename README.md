@@ -1,1 +1,2 @@
 # figureoutname
+AI everything.
